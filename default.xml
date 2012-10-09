@@ -30,7 +30,7 @@
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/chromium" name="platform/external/chromium" revision="ics-plus-aosp" />
-  <project path="external/chromium-trace" name="platform/external/chromium-trace revision="ics-plus-aosp" />
+  <project path="external/chromium-trace" name="platform/external/chromium-trace" revision="ics-plus-aosp" />
   <project path="external/clang" name="platform/external/clang" />
   <project path="external/collada" name="platform/external/collada" />
   <project path="external/dbus" name="platform/external/dbus" />
@@ -121,7 +121,7 @@
   <project path="external/tinyalsa" name="platform/external/tinyalsa" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremolo" name="platform/external/tremolo" />
-  <project path="external/v8" name="aospX/platform_external_v8" remote="github" revision="ics-devel" />
+  <project path="external/v8" name="platform/external/v8" revision="ics-plus-aosp" />
   <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/webkit" name="popdog123/android_external_webkit" remote="github" revision="ics" />
   <project path="external/webp" name="platform/external/webp" />
