@@ -29,7 +29,8 @@
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
-  <project path="external/chromium" name="aospX/platform_external_chromium" remote="github" revision="ics-devel" />
+  <project path="external/chromium" name="platform/external/chromium" revision="ics-plus-aosp" />
+  <project path="external/chromium-trace" name="platform/external/chromium-trace revision="ics-plus-aosp" />
   <project path="external/clang" name="platform/external/clang" />
   <project path="external/collada" name="platform/external/collada" />
   <project path="external/dbus" name="platform/external/dbus" />
@@ -198,7 +199,7 @@
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" revision="ics" remote="github" />
   <project path="device/lge/p500" name="popdog123/android_device_lge_p500" revision="ics" remote="github" />
-  <project path="external/skia" name="aospX/platform_external_skia" revision="ics" remote="github" />
+  <project path="external/skia" name="platform/external/skia" revision="ics-plus-aosp" />
   <project path="frameworks/base" name="popdog123/android_frameworks_base" revision="ics" remote="github" />
   <project path="frameworks/compile/slang" name="oxygen-rom-ics/android_frameworks_compile_slang" revision="ics" remote="github" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="ics" remote="github" />
