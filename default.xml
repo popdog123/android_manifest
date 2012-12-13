@@ -206,7 +206,7 @@
   <project path="packages/apps/Browser" name="oxygen-rom-ics/android_packages_apps_browser" revision="ics" remote="github" />
   <project path="packages/apps/Bluetooth" name="oxygen-rom-ics/android_packages_apps_bluetooth" revision="ics" remote="github" />
   <project path="packages/apps/Camera" name="oxygen-rom-ics/android_packages_apps_camera" revision="ics" remote="github" />
-  <project path="packages/apps/Contacts" name="oxygen-rom-ics/android_packages_apps_contacts" revision="ics" remote="github" />
+  <project path="packages/apps/Contacts" name="popdog123/android_packages_apps_contacts" revision="ics" remote="github" />
   <project path="packages/apps/Mms" name="oxygen-rom-ics/android_packages_apps_mms" revision="ics" remote="github" />
   <project path="packages/apps/Phone" name="popdog123/android_packages_apps_phone" revision="ics" remote="github" />
   <project path="packages/apps/Settings" name="popdog123/android_packages_apps_settings" revision="ics" remote="github" />
